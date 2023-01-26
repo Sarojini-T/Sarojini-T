@@ -9,7 +9,7 @@ some experience in Java (Data Structures) and python.
 
 :soccer: Fun fact: I played soccer in high school.
 
-:books: My hobbies include reading, painting and crochet
+:books: My hobbies include reading, writing, painting and crochet
 
 <!--
 **Sarojini-T/Sarojini-T** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
