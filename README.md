@@ -1,7 +1,6 @@
 ### Hi, I'm Sarojini!
 
-I'm an undergrad at the University of Massachusetts Amherst, currently in my second year. I have
-some experience in Java (Data Structures) and python.
+I'm an undergrad at the University of Massachusetts Amherst, currently in my second year. I'm familiar with Java (Data Structures).
 
 :computer: I’m currently learning Javascript. 
 
